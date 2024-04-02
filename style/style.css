@@ -11,6 +11,8 @@ body {
     position: fixed !important;
     bottom: 0;
     text-align: center;
+    right: 25%;
+    left: 25%
   }
 
 .container {
