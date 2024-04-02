@@ -37,6 +37,8 @@ const animationTimeline = () => {
   hbd.innerHTML = `<span>${hbd.innerHTML
     .split(" ")
     .join("</span><span>")}</span`;
+  
+  hbd.innerHTML = `<span><span>H</span><span>a</span><span>p</span><span>p</span><span>y</span>&nbsp;<span>B</span><span>i</span><span>r</span><span>t</span><span>h</span><span>d</span><span>a</span><span>y</span><span>!</span>&nbsp;<span>M</span><span>y</span>&nbsp;<span>l</span><span>o</span><span>v</span><span>e</span></span>`;
 
   const ideaTextTrans = {
     opacity: 0,
