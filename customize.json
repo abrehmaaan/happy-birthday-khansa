@@ -2,7 +2,7 @@
   "greeting": "Hey",
   "name": "Para",
   "greetingText": "I really love you btw!",
-  "wishText": "May the Happiness always be with you! &#9829;",
+  "wishText": "May the Happiness always be with you! ♥",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
@@ -19,5 +19,5 @@
   "wishHeading": "Happy Birthday! My love",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": " &#10085; "
+  "outroSmiley": " ❥ "
 }
