@@ -8,8 +8,9 @@ body {
 }
 
 .footer {
-    position: fixed;
+    position: fixed !important;
     bottom: 0;
+    text-align: center;
   }
 
 .container {
